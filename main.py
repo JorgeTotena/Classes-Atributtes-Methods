@@ -16,4 +16,4 @@ print(user_1.follower)
 user_1.follow(user_2)
 print(user_1.user_id)
 print(user_1.follower)
-cd my
+print("I'm just testing this bitches")
